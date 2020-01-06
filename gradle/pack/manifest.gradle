@@ -19,9 +19,18 @@ task copyToSrc {
     }
 }
 
+task copyModlist (type: Copy) {
+  from projectDir
+  into srcDir
+  include 'modlist.html'
+}
+
+copyToSrc.finalizedBy copyModlist
+
 task copyTwitchManifest(type: Copy) {
   from srcDir
   include 'manifest.json'
+  include 'modlist.html'
   into buildDir
 }
 

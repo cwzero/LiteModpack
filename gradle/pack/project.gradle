@@ -7,6 +7,7 @@ distributions {
                     include 'resources'
                     include 'scripts'
                     include 'manifest.json'
+                    include 'modlist.html'
                     into 'src'
                 }
 
