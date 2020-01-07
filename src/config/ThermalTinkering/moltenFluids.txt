@@ -29,6 +29,7 @@ lead                                              (tconstruct:molten_lead)      
 silver                                            (tconstruct:molten_silver)                                                       = Molten Silver
 electrum                                          (tconstruct:molten_electrum)                                                     = Molten Electrum
 steel                                             (tconstruct:molten_steel)                                                        = Molten Steel
+constantan                                        (immersiveengineering:molten_constantan)                                         = Molten Constantan
 xu_evil_metal                                     ([no block])                                                                     = Evil Infused Iron
 xu_enchanted_metal                                ([no block])                                                                     = Enchanted Metal
 xu_demonic_metal                                  ([no block])                                                                     = Molten Demon Metal
@@ -53,6 +54,7 @@ lumium                                            (tconstruct:molten_lumium)    
 signalum                                          (tconstruct:molten_signalum)                                                     = Molten Signalum
 platinum                                          (tconstruct:molten_platinum)                                                     = Molten Platinum
 enderium                                          (tconstruct:molten_enderium)                                                     = Molten Enderium
+thaumium                                          (plustic:plustic.molten_thaumium)                                                = Molten Thaumium
 soulshardsrespawn.corrupted                       ([no block])                                                                     = Molten Corruption
 bloodbronze                                       ([no block])                                                                     = Molten Blood Bronze
 mirion                                            (plustic:plustic.molten_mirion)                                                  = Molten Mirion

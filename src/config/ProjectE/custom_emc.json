@@ -1,4 +1,64 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "quark:marble|0",
+      "emc": 1
+    },
+    {
+      "item": "actuallyadditions:item_flax_seed|0",
+      "emc": 64
+    },
+    {
+      "item": "ironbackpacks:backpack|0",
+      "emc": 0
+    },
+    {
+      "item": "forge:bucketfilled|0",
+      "emc": 0
+    },
+    {
+      "item": "chisel:basalt2|7",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:sandstone|2",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:gem|5",
+      "emc": 2048
+    },
+    {
+      "item": "mysticalagriculture:soulstone|1",
+      "emc": 1
+    },
+    {
+      "item": "aroma1997sdimension:miningmultitool|0",
+      "emc": 278
+    },
+    {
+      "item": "aroma1997sdimension:portalframe|0",
+      "emc": 1
+    },
+    {
+      "item": "rustic:slate|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:limestone2|7",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:netherbrick|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:sandstone|0",
+      "emc": 4
+    },
+    {
+      "item": "chisel:marble2|7",
+      "emc": 1
+    }
+  ]
 }
