@@ -6,6 +6,7 @@ distributions {
         contents {
             from (buildDir) {
                 include 'manifest.json'
+                include 'modlist.html'
             }
 
             from (srcDir) {
