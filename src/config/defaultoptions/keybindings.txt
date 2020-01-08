@@ -36,6 +36,13 @@ key_key.ftbutilities.trash:211:NONE
 key_key.moreoverlays.lightoverlay.desc:65:NONE
 key_key.moreoverlays.chunkbounds.desc:67:NONE
 key_neat.keybind.toggle:0:NONE
+key_oreexcavation.key.excavate:41:NONE
+key_oreexcavation.key.shape:47:NONE
+key_key.toggleFoVChanges:51:SHIFT
+key_key.reloadSoundSystem:66:SHIFT
+key_key.toggleTimeOfDayOverlay:0:NONE
+key_key.dismount:42:NONE
+key_key.narrator:48:CONTROL
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0:NONE
@@ -62,6 +69,8 @@ key_key.craftingtweaks.decompressStack:0:NONE
 key_key.craftingtweaks.decompressAll:0:NONE
 key_key.craftingtweaks.refill_last:15:NONE
 key_key.craftingtweaks.refill_last_stack:15:NONE
+key_invtweaks.key.sort:19:NONE
+key_Quick Commands:83:NONE
 key_nei.options.keys.gui.enchant:45:NONE
 key_nei.options.keys.gui.potion:25:NONE
 key_nei.options.keys.gui.prev:201:NONE

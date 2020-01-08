@@ -49,10 +49,10 @@ attackIndicator:1
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
-autoJump:true
+autoJump:false
 narrator:0
 tutorialStep:none
-soundCategory_master:1.0
+soundCategory_master:0.08940397
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
