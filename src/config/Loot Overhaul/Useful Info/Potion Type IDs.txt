@@ -201,6 +201,81 @@ randomthings:strong_collapse
        randomthings:collapse - 300 - 1 - false - true
 
 
+inspirations:haste
+   - Effects: 
+       minecraft:haste - 3600 - 0 - false - true
+
+
+inspirations:strong_haste
+   - Effects: 
+       minecraft:haste - 1800 - 1 - false - true
+
+
+inspirations:fatigue
+   - Effects: 
+       minecraft:mining_fatigue - 1200 - 0 - false - true
+
+
+inspirations:strong_fatigue
+   - Effects: 
+       minecraft:mining_fatigue - 600 - 1 - false - true
+
+
+inspirations:hunger
+   - Effects: 
+       minecraft:hunger - 900 - 0 - false - true
+
+
+inspirations:long_hunger
+   - Effects: 
+       minecraft:hunger - 1800 - 0 - false - true
+
+
+inspirations:strong_hunger
+   - Effects: 
+       minecraft:hunger - 450 - 1 - false - true
+
+
+inspirations:resistance
+   - Effects: 
+       minecraft:resistance - 2400 - 0 - false - true
+
+
+inspirations:long_resistance
+   - Effects: 
+       minecraft:resistance - 6000 - 0 - false - true
+
+
+inspirations:levitation
+   - Effects: 
+       minecraft:levitation - 160 - 0 - false - true
+
+
+inspirations:long_levitation
+   - Effects: 
+       minecraft:levitation - 300 - 0 - false - true
+
+
+inspirations:blindness
+   - Effects: 
+       minecraft:blindness - 600 - 0 - false - true
+
+
+inspirations:long_blindness
+   - Effects: 
+       minecraft:blindness - 1200 - 0 - false - true
+
+
+inspirations:decay
+   - Effects: 
+       minecraft:wither - 600 - 0 - false - true
+
+
+inspirations:long_decay
+   - Effects: 
+       minecraft:wither - 300 - 1 - false - true
+
+
 enderio:withering
    - Effects: 
        minecraft:wither - 900 - 0 - false - true
@@ -234,6 +309,21 @@ enderio:confusion
 enderio:long_confusion
    - Effects: 
        minecraft:nausea - 2400 - 0 - false - true
+
+
+quark:resilience
+   - Effects: 
+       quark:resilience - 3600 - 0 - false - true
+
+
+quark:long_resilience
+   - Effects: 
+       quark:resilience - 9600 - 0 - false - true
+
+
+quark:strong_resilience
+   - Effects: 
+       quark:resilience - 1800 - 1 - false - true
 
 
 quark:haste
@@ -289,21 +379,6 @@ quark:danger_sight
 quark:long_danger_sight
    - Effects: 
        quark:danger_sight - 9600 - 0 - false - true
-
-
-quark:resilience
-   - Effects: 
-       quark:resilience - 3600 - 0 - false - true
-
-
-quark:long_resilience
-   - Effects: 
-       quark:resilience - 9600 - 0 - false - true
-
-
-quark:strong_resilience
-   - Effects: 
-       quark:resilience - 1800 - 1 - false - true
 
 
 apotheosis:resistance
@@ -908,80 +983,5 @@ extrautils2:xu2.love
 extrautils2:xu2.purging
    - Effects: 
        extrautils2:effect.xu2.purging - 0 - 0 - false - true
-
-
-inspirations:long_levitation
-   - Effects: 
-       minecraft:levitation - 300 - 0 - false - true
-
-
-inspirations:strong_fatigue
-   - Effects: 
-       minecraft:mining_fatigue - 600 - 1 - false - true
-
-
-inspirations:levitation
-   - Effects: 
-       minecraft:levitation - 160 - 0 - false - true
-
-
-inspirations:hunger
-   - Effects: 
-       minecraft:hunger - 900 - 0 - false - true
-
-
-inspirations:long_decay
-   - Effects: 
-       minecraft:wither - 300 - 1 - false - true
-
-
-inspirations:strong_haste
-   - Effects: 
-       minecraft:haste - 1800 - 1 - false - true
-
-
-inspirations:decay
-   - Effects: 
-       minecraft:wither - 600 - 0 - false - true
-
-
-inspirations:fatigue
-   - Effects: 
-       minecraft:mining_fatigue - 1200 - 0 - false - true
-
-
-inspirations:long_blindness
-   - Effects: 
-       minecraft:blindness - 1200 - 0 - false - true
-
-
-inspirations:blindness
-   - Effects: 
-       minecraft:blindness - 600 - 0 - false - true
-
-
-inspirations:resistance
-   - Effects: 
-       minecraft:resistance - 2400 - 0 - false - true
-
-
-inspirations:long_resistance
-   - Effects: 
-       minecraft:resistance - 6000 - 0 - false - true
-
-
-inspirations:haste
-   - Effects: 
-       minecraft:haste - 3600 - 0 - false - true
-
-
-inspirations:strong_hunger
-   - Effects: 
-       minecraft:hunger - 450 - 1 - false - true
-
-
-inspirations:long_hunger
-   - Effects: 
-       minecraft:hunger - 1800 - 0 - false - true
 
 

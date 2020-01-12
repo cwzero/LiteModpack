@@ -90,8 +90,8 @@ dungeon_pockets
 	- Terrain Scale: 1.0
 
 
-tartarus
-	- Id: 418
+simplevoidworld
+	- Id: 43
 	- Height: 256
 	- Has Sky? true
 	- Cloud Height: 128.0
@@ -99,8 +99,8 @@ tartarus
 	- Terrain Scale: 1.0
 
 
-simplevoidworld
-	- Id: 43
+tartarus
+	- Id: 418
 	- Height: 256
 	- Has Sky? true
 	- Cloud Height: 128.0
