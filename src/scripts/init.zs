@@ -1,3 +1,1 @@
-var tablet = <projectex:arcane_tablet>;
-
-mods.initialinventory.InvHandler.addStartingItem(tablet);
+//mods.initialinventory.InvHandler.addStartingItem(<item>);
